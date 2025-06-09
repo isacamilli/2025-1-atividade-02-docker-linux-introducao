@@ -87,11 +87,11 @@ Posteriormente realizei os comandos:
 
 Foi criado um novo arquivo chamado "script.sh". Após a criação, foram atribuídas permissões de execução ao usuário por meio do comando adequado. Por fim, foi feita a verificação das permissões e atributos do arquivo utilizando um comando que exibe informações detalhadas, confirmando a modificação aplicada.
 
-![Entrando no contêiner](Imagens/img8.png)
+![Criando script.sh](Imagens/img8.png)
 
 Foi realizado o download do comando **ps**, utilizado para exibir informações sobre os processos em execução no sistema. Ele permite visualizar detalhes como o identificador do processo (PID), terminal associado, uso de CPU e o comando que originou o processo, sendo uma ferramenta útil para monitoramento e diagnóstico.
 
-![Entrando no contêiner](Imagens/img9.png)
+![Baixando ps](Imagens/img9.png)
 
 Em seguida foram realizados os seguintes comandos:
 - **ps aux**
@@ -106,13 +106,13 @@ Em seguida foram realizados os seguintes comandos:
 - **kill <PID>**
   Encerra o processo com o número de identificação (PID) informado.
 
-![Entrando no contêiner](Imagens/img10.png)
+![Processos síncronos](Imagens/img10.png)
 
 #### 2.4 Saida do conteiner
 
 Para finalizar a prática, foi utilizado o comando apropriado para sair do contêiner. Em seguida, procedeu-se com a remoção do contêiner Docker utilizado durante as atividades, encerrando completamente o ambiente de trabalho.
 
-![Entrando no contêiner](Imagens/img11.png)
+![Saindo e removendo contêiner](Imagens/img11.png)
 
 ## 3. Conclusão
 
